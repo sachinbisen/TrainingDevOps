@@ -1,6 +1,10 @@
 pipeline {
     agent any
 
+    environment {
+        PATH = "/opt/homebrew/bin:/usr/bin:/bin:/usr/sbin:/sbin"
+    }
+
     stages {
         stage('Checkout') {
             steps {
@@ -10,6 +14,7 @@ pipeline {
 
         stage('Build') {
             steps {
+                sh 'dotnet --version'
                 sh 'dotnet restore'
                 sh 'dotnet build --configuration Release'
             }
@@ -31,9 +36,6 @@ pipeline {
     post {
         success {
             echo 'Build, test, and publish successful!'
-        }
-        failure {
-            echo 'Pipeline failed ❌'
         }
     }
 }
