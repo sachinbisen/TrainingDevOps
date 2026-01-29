@@ -1,0 +1,11 @@
+/Users/sachin/TrainingDevOps/YCCECalc/bin/Debug/net8.0/YCCECalc.deps.json
+/Users/sachin/TrainingDevOps/YCCECalc/bin/Debug/net8.0/YCCECalc.dll
+/Users/sachin/TrainingDevOps/YCCECalc/bin/Debug/net8.0/YCCECalc.pdb
+/Users/sachin/TrainingDevOps/YCCECalc/obj/Debug/net8.0/YCCECalc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sachin/TrainingDevOps/YCCECalc/obj/Debug/net8.0/YCCECalc.AssemblyInfoInputs.cache
+/Users/sachin/TrainingDevOps/YCCECalc/obj/Debug/net8.0/YCCECalc.AssemblyInfo.cs
+/Users/sachin/TrainingDevOps/YCCECalc/obj/Debug/net8.0/YCCECalc.csproj.CoreCompileInputs.cache
+/Users/sachin/TrainingDevOps/YCCECalc/obj/Debug/net8.0/YCCECalc.dll
+/Users/sachin/TrainingDevOps/YCCECalc/obj/Debug/net8.0/refint/YCCECalc.dll
+/Users/sachin/TrainingDevOps/YCCECalc/obj/Debug/net8.0/YCCECalc.pdb
+/Users/sachin/TrainingDevOps/YCCECalc/obj/Debug/net8.0/ref/YCCECalc.dll
